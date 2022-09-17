@@ -1,0 +1,45 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+.main{
+    width: 100%;
+    background-color: beige;
+   
+
+
+}
+
+.main:hover{
+opacity: 0.5;
+.
+
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+    
+
+
+}
+
+.imgaleria{
+width: 350px;
+gap: 10px;
+
+
+}
+
+.imgaleria:hover{
+    
+ opacity: 0.5;
+ cursor: pointer;
+
+ 
+
+}
